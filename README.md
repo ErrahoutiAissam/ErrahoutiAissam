@@ -19,7 +19,6 @@ I'm a software engineer passionate about learning and working on exciting projec
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?&logo=Firebase&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?&logo=Flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=Kubernetes&logoColor=white)
