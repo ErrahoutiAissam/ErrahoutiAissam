@@ -35,9 +35,9 @@ I'm a software engineer passionate about learning and working on exciting projec
 
 ## 📈 GitHub Stats
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Visitor Count](https://komarev.com/ghpvc/?username=ErrahoutiAissane&style=flat-square)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ErrahoutiAissam&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErrahoutiAissam&layout=compact&theme=radical)
 
 ## 📫 Get in Touch
 
