@@ -1,7 +1,7 @@
 # Hi there, I'm Errahouti Aissam 👋
 
 ## 👨‍💻 About Me
-I'm a software engineer passionate about learning and working on exciting projects.
+I'm a software engineer passionate about learning new technologies and working on exciting projects.
 
 ## 🛠️ Languages and Tools
 
