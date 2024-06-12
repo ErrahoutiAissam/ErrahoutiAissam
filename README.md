@@ -33,10 +33,10 @@ I'm a software engineer passionate about learning new technologies and working o
 [![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 [![Apache Camel](https://img.shields.io/badge/-Apache%20Camel-EA5026?style=for-the-badge&logo=apache-camel&logoColor=white)](https://camel.apache.org/)
 
-## 📈 GitHub Stats
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ErrahoutiAissane&style=flat-square)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErrahoutiAissam&layout=compact&theme=radical)
+
 
 ## 📫 Get in Touch
 
